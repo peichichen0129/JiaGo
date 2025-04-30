@@ -38,7 +38,7 @@ This project was developed by two students as part of our **Mobile App Developme
 ![image](https://github.com/user-attachments/assets/d8af90cf-13b3-4c4f-a5fc-efcee7060b04)  
 ![image](https://github.com/user-attachments/assets/dc86f4c9-20d1-4ffe-a114-cd943de1c99d)  
 ![image](https://github.com/user-attachments/assets/14fef413-8a72-4afe-94c6-3ca0e83e80e5)  
-![image](https://github.com/user-attachments/assets/a740a51a-5d68-47d5-82c6-50185373c957)  
+ 
 ![image](https://github.com/user-attachments/assets/b4204714-0b83-4dca-b832-a2b2525d7a35)  
 ![image](https://github.com/user-attachments/assets/63b6c9d2-b5e9-4821-a295-052e0d91fc72)  
 ![image](https://github.com/user-attachments/assets/5467ac49-6983-435a-a14b-f30c9f70d128)  
