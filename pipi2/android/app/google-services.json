@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "676097933490",
+    "project_id": "chaiyifood",
+    "storage_bucket": "chaiyifood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676097933490:android:c597c525b1e458c664c9ab",
+        "android_client_info": {
+          "package_name": "com.example.pipi2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0C5W8bfj6kwyfN_c6rr1ECtMRdZ5eYtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676097933490:android:7ef485064187768d64c9ab",
+        "android_client_info": {
+          "package_name": "com.example.yourapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0C5W8bfj6kwyfN_c6rr1ECtMRdZ5eYtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676097933490:android:46153b81d8d2994a64c9ab",
+        "android_client_info": {
+          "package_name": "com.peggy.chaiyifood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0C5W8bfj6kwyfN_c6rr1ECtMRdZ5eYtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
