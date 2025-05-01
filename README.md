@@ -39,18 +39,7 @@ This project was developed by two students as part of our **Mobile App Developme
 ![image](https://github.com/user-attachments/assets/dc86f4c9-20d1-4ffe-a114-cd943de1c99d)  
 ![image](https://github.com/user-attachments/assets/14fef413-8a72-4afe-94c6-3ca0e83e80e5)  
 ![image](https://github.com/user-attachments/assets/a740a51a-5d68-47d5-82c6-50185373c957)  
-![image](https://github.com/user-attachments/assets/b4204714-0b83-4dca-b832-a2b2525d7a35)  
-![image](https://github.com/user-attachments/assets/63b6c9d2-b5e9-4821-a295-052e0d91fc72)  
-![image](https://github.com/user-attachments/assets/5467ac49-6983-435a-a14b-f30c9f70d128)  
-![image](https://github.com/user-attachments/assets/10829300-1ed8-4485-b39f-d783cf997e6b)  
-![image](https://github.com/user-attachments/assets/c968864b-a3ad-491b-8ad8-1a13331cc99f)  
-![image](https://github.com/user-attachments/assets/f1a1070c-8f0d-495e-9512-b06eab80bd59)  
-![image](https://github.com/user-attachments/assets/102ed407-e64a-40b4-96fb-8c74f6bec1ca)  
-![image](https://github.com/user-attachments/assets/5accef4c-45a0-4d58-b290-8adac4c48293)  
-![image](https://github.com/user-attachments/assets/cb361008-9258-4c5f-869a-3fc67cbd4ce4)  
-![image](https://github.com/user-attachments/assets/d6316087-d67d-4034-8aea-581b5b4f058c)  
-![image](https://github.com/user-attachments/assets/70d40434-6562-408f-80b0-90338497972f)  
-![image](https://github.com/user-attachments/assets/b1431c5c-0a9e-44ac-8d8c-ebd7520f2c2c)  
+
 
 
 
